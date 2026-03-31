@@ -1,4 +1,7 @@
 #include <stdio.h>
 int main(){
-    
+int n, i, A[i};
+    printf("Ingrese la cantidad de elementos que quiere ingresar para el vector para el vector: ");
+    scanf("%d", &n);
+
 }
